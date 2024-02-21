@@ -1,2 +1,2 @@
-# SoloJSX-template-ts
-SoloJSX-template-ts
+# SoloJSX-template-ts-minimal
+SoloJSX-template-ts-minimal
