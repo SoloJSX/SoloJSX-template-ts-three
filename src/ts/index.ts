@@ -1,2 +1,2 @@
-import Main from "./Main";
-Main.init();
+import Main from "./Main"
+Main.init()
