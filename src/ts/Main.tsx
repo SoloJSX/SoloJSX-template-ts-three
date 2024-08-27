@@ -4,7 +4,7 @@ export default class Main {
         const element = <div>
             <h1>Vite + TypeScript + SoloJSX</h1>
             <br />
-            <div style="cursor: pointer" onclick={() => onClick("Hello world22")}>Click me</div>
+            <div style="cursor: pointer" onclick={() => onClick("Hello")}>Click me</div>
             <br />
             <img src="/vite.svg" alt="" />
         </div>
