@@ -1,15 +1,17 @@
 {
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "bp": "vite build && vite preview"
-  },
-  "devDependencies": {
-    "vite": "^5.4.2"
-  },
-  "dependencies": {
-    "solojsx": "^2.4.11"
-  }
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "bp": "vite build && vite preview"
+    },
+    "devDependencies": {
+        "@types/three": "^0.168.0",
+        "vite": "^5.4.6"
+    },
+    "dependencies": {
+        "solojsx": "^2.4.14",
+        "three": "^0.169.0"
+    }
 }
